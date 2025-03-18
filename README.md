@@ -3,7 +3,7 @@
 - 🔭 Atualmente busco algum emprego na área front-end.
 - 🌱 Aprendendo JavaScript.
 - 👯 Contate-me no email: rafael14052001@gmail.com
-- 🤔 Cusando Análise e Desenvolvimento de Sistemas 3º semestre, Facens.
+- 🤔 Formado em Análise e Desenvolvimento de Sistemas, pela Facens.
 - 💬 Tenho conhecimento em JavaScript, HTML, CSS, Python e MySQL.
 
 ## 
